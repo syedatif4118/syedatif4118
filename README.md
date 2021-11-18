@@ -24,5 +24,6 @@ Skills: C/C++, Java, Python, SQL, HTML, CSS, Android App Development
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedatif4118)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=syedatif4118)  
+![snake gif](https://github.com/syedatif4118/syedatif4118/blob/output/github-contribution-grid-snake.gif)
 
 ![Profile views](https://gpvc.arturio.dev/syedatif4118)  
