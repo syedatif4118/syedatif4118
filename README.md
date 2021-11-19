@@ -12,9 +12,10 @@ Skills: C/C++, Java, Python, SQL, HTML, CSS, Android App Development
 - 🌱 I’m currently learning Everything🤣 
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with Remote Job and to learn DevOps 
-- 📫 How to reach me: syedatif4118@gmail.com 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
+- 📫 Reach me at:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedatif001/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SyedAti72650116)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syedatif4118)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/syedatif001//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/s.y.e.d_a.t.i.f//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SyedAti72650116)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedatif4118)](https://github.com/anuraghazra/github-readme-stats)
