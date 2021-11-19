@@ -13,7 +13,7 @@ Skills: C/C++, Java, Python, SQL, HTML, CSS, Android App Development
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with Remote Job and to learn DevOps 
 - 📫 How to reach me: syedatif4118@gmail.com 
-
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syedatif4118)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/syedatif001//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/s.y.e.d_a.t.i.f//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SyedAti72650116)  
 
