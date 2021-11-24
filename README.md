@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **syedatif4118@gmail.com@gmail.com**
+- 📫 How to reach me **syedatif4118@gmail.com**
 
 
 ## 🚀 Languages and Tools:
