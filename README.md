@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently interning at a startup as Software Engineer Trainee
+- 🔭 I’m currently working at a startup as Software Engineer / Android Developer
 
 - 🌱 I’m currently learning **Everything😂.**
 
