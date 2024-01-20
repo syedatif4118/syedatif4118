@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atif</h1>
-<h3 align="center">I'm a Software Developer who is building his career through Open Source.</h3>
+<h3 align="center">I'm a Data Scientist who is building his career through Open Source.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at a startup as Software Engineer / Android Developer
+- 🔭 I’m currently working at a Equifax
 
 - 🌱 I’m currently learning **Everything😂.**
 
