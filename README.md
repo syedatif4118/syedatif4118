@@ -59,9 +59,11 @@
 <a href = "https://twitter.com/syed_atif01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/s.y.e.d_a.t.i.f/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-                name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## ❤ Views and Followers
 ![Profile views](https://gpvc.arturio.dev/syedatif4118) 
