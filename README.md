@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at a Equifax
+- 🔭 I’m currently working at Equifax
 
 - 🌱 I’m currently learning **Everything😂.**
 
